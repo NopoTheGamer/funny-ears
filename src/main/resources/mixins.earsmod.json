@@ -1,0 +1,11 @@
+{
+  "package": "com.nopo.earsmod.mixin",
+  "refmap": "mixins.earsmod.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "MixinLayerDeadmau5Head"
+  ]
+}
